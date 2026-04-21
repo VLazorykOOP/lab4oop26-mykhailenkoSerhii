@@ -1,0 +1,10 @@
+
+
+#ifndef LAB4OOP26_MYKHAILENKOSERHII_LAB4_H
+#define LAB4OOP26_MYKHAILENKOSERHII_LAB4_H
+
+
+class Lab4 {};
+
+
+#endif
