@@ -6,5 +6,4 @@
 
 class Lab4 {};
 
-
 #endif
