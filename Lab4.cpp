@@ -13,13 +13,14 @@ int main()
 
     int choice = 0;
     cout << "Choose the specific task to run" << endl;
+    cout << "1 - VectorFloat" << endl;
+    cout << "2 - CountryCapitalList" << endl;
     cin >> choice;
 
-    switch (choice)
-    {
-        case 1: task1();
-        case 2: task2();
+    if (choice == 1)
+        task1();
+    if (choice == 2)
+        task2();
 
-        default: return 0;
-    }
+    return 0;
 }
